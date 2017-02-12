@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<attr name="bigcolor" format="color"/>
+    <attr name="bigradius" format="dimension"/>
+
+    <attr name="smallcolor" format="color"/>
+    <attr name="smallradius" format="dimension"/>
+
+    <attr name="zhengcolor" format="color"/>
+
+
+    <attr name="text" format="string"/>
+    <attr name="Textsize" format="integer"/>
+
+    <declare-styleable name="CustomView">
+        <attr name="bigradius"/>
+        <attr name="smallcolor"/>
+        <attr name="smallradius"/>
+        <attr name="zhengcolor"/>
+        <attr name="text"/>
+        <attr name="bigcolor"/>
+        <attr name="Textsize"/>
+
+
+    </declare-styleable>
+
+
+
+</resources>
